@@ -6,7 +6,7 @@ A Python-based **Virtual Keyboard** that lets you type using only hand gestures 
 
 ## 📸 Demo
 
-[🎥 Watch Demo Video](demo.mp4)
+[🎥 Watch Demo Video](Demo.mp4)
 
 
 ---
